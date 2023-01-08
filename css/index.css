@@ -1,0 +1,43 @@
+.box 
+    {
+        width: 300px;
+        height: 100px;
+        line-height:100px;
+        background: rgb(82, 18, 18);
+        background-size:cover;
+        background-image:url(../image/tree.jpg);
+        
+        color: #fff;
+        font-size: 20px;
+        font-family: 'Rubik Gemstones', cursive;
+    
+        text-align:center
+    }
+
+
+    .button {
+        /* width: 100px;
+        height: 50px;
+        line-height: 50px; */
+        background: #092574;
+        color:aqua;
+        display: inline-block;
+        text-align: center;
+        padding:10px 15px;
+        margin-top: 20px
+        border-radius: 5px;
+
+
+
+
+
+    }
+
+    .box2 {
+        width:300px;
+        height: 500px;
+        box-sizing: border-box;
+        background: #dedede;
+        color: red;
+        padding: 10px;
+    }
